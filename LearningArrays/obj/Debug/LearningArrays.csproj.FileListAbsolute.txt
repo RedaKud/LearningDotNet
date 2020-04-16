@@ -1,0 +1,7 @@
+C:\Users\redak\OneDrive\Desktop\TUTA3\Homework\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\redak\OneDrive\Desktop\TUTA3\Homework\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\redak\OneDrive\Desktop\TUTA3\Homework\LearningArrays\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\redak\OneDrive\Desktop\TUTA3\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csprojAssemblyReference.cache
+C:\Users\redak\OneDrive\Desktop\TUTA3\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\redak\OneDrive\Desktop\TUTA3\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\redak\OneDrive\Desktop\TUTA3\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.pdb
